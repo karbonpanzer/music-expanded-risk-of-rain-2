@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <!-- ===== Ambient ===== -->
+  <MusicExpanded.TrackDef>
+    <defName>ME_ROR2_001</defName>
+    <label>Risk of Rain 2 - Through a Cloud, Darkly</label>
+    <clipPath>MusicExpanded/RiskOfRain2/Through a Cloud, Darkly</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_ROR2_002</defName>
+    <label>Risk of Rain 2 - Terra Pluviam</label>
+    <clipPath>MusicExpanded/RiskOfRain2/Terra Pluviam</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_ROR2_003</defName>
+    <label>Risk of Rain 2 - Evapotranspiration</label>
+    <clipPath>MusicExpanded/RiskOfRain2/Evapotranspiration</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_ROR2_004</defName>
+    <label>Risk of Rain 2 - The Raindrop that Fell to the Sky</label>
+    <clipPath>MusicExpanded/RiskOfRain2/The Raindrop that Fell to the Sky</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_ROR2_005</defName>
+    <label>Risk of Rain 2 - The Rain Formerly Known as Purple</label>
+    <clipPath>MusicExpanded/RiskOfRain2/The Rain Formerly Known as Purple</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_ROR2_006</defName>
+    <label>Risk of Rain 2 - Parjanya</label>
+    <clipPath>MusicExpanded/RiskOfRain2/Parjanya</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_ROR2_007</defName>
+    <label>Risk of Rain 2 - Into the Doldrums</label>
+    <clipPath>MusicExpanded/RiskOfRain2/Into the Doldrums</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_ROR2_008</defName>
+    <label>Risk of Rain 2 - Disdrometer</label>
+    <clipPath>MusicExpanded/RiskOfRain2/Disdrometer</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_ROR2_009</defName>
+    <label>Risk of Rain 2 - …con lentitud poderosa</label>
+    <clipPath>MusicExpanded/RiskOfRain2/…con lentitud poderosa</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_ROR2_010</defName>
+    <label>Risk of Rain 2 - Petrichor V</label>
+    <clipPath>MusicExpanded/RiskOfRain2/Petrichor V</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <!-- ===== Main Menu & Credits ===== -->
+  <MusicExpanded.TrackDef>
+    <defName>ME_ROR2_011</defName>
+    <label>Risk of Rain 2 - Lacrimosum</label>
+    <clipPath>MusicExpanded/RiskOfRain2/Lacrimosum</clipPath>
+    <cue>Credits</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_ROR2_012</defName>
+    <label>Risk of Rain 2 - Risk of Rain 2</label>
+    <clipPath>MusicExpanded/RiskOfRain2/Risk of Rain 2</clipPath>
+    <cue>MainMenu</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_ROR2_013</defName>
+    <label>Risk of Rain 2 - The Dehydration of Risk of Rain 2</label>
+    <clipPath>MusicExpanded/RiskOfRain2/The Dehydration of Risk of Rain 2</clipPath>
+    <cue>MainMenu</cue>
+  </MusicExpanded.TrackDef>
+
+  <!-- ===== Battle ===== -->
+  <MusicExpanded.TrackDef>
+    <defName>ME_ROR2_014</defName>
+    <label>Risk of Rain 2 - Thermodynamic Equilibrium</label>
+    <clipPath>MusicExpanded/RiskOfRain2/Thermodynamic Equilibrium</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_ROR2_015</defName>
+    <label>Risk of Rain 2 - Köppen As Fuck</label>
+    <clipPath>MusicExpanded/RiskOfRain2/Köppen As Fuck</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_ROR2_016</defName>
+    <label>Risk of Rain 2 - You're Gonna Need a Bigger Ukulele</label>
+    <clipPath>MusicExpanded/RiskOfRain2/You're Gonna Need a Bigger Ukulele</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_ROR2_017</defName>
+    <label>Risk of Rain 2 - Hydrophobia</label>
+    <clipPath>MusicExpanded/RiskOfRain2/Hydrophobia</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_ROR2_018</defName>
+    <label>Risk of Rain 2 - Antarctic Oscillation</label>
+    <clipPath>MusicExpanded/RiskOfRain2/Antarctic Oscillation</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_ROR2_019</defName>
+    <label>Risk of Rain 2 - A Glacier Eventually Farts (And Don't You Listen to the Song of Life)</label>
+    <clipPath>MusicExpanded/RiskOfRain2/A Glacier Eventually Farts (And Don't You Listen to the Song of Life)</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+
+  <!-- ===== Anomaly Integration (Custom Cues, Unique DefNames) ===== -->
+  <MusicExpanded.TrackDef>
+    <defName>ME_ROR2_ANOM_001</defName>
+    <label>Risk of Rain 2 - Nocturnal Emission</label>
+    <clipPath>MusicExpanded/RiskOfRain2/Nocturnal Emission</clipPath>
+    <cue>Custom</cue>
+    <cueData>SmallShamblerSwarm,UnnaturalDarkness</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_ROR2_ANOM_002</defName>
+    <label>Risk of Rain 2 - Into the Doldrums</label>
+    <clipPath>MusicExpanded/RiskOfRain2/Into the Doldrums</clipPath>
+    <cue>Custom</cue>
+    <cueData>DistressCall</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_ROR2_ANOM_003</defName>
+    <label>Risk of Rain 2 - A Glacier Eventually Farts (And Don't You Listen to the Song of Life)</label>
+    <clipPath>MusicExpanded/RiskOfRain2/A Glacier Eventually Farts (And Don't You Listen to the Song of Life)</clipPath>
+    <cue>Custom</cue>
+    <cueData>ShamblerAssault,PitGate</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_ROR2_ANOM_004</defName>
+    <label>Risk of Rain 2 - Antarctic Oscillation</label>
+    <clipPath>MusicExpanded/RiskOfRain2/Antarctic Oscillation</clipPath>
+    <cue>Custom</cue>
+    <cueData>GhoulAttack</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_ROR2_ANOM_005</defName>
+    <label>Risk of Rain 2 - Köppen As Fuck</label>
+    <clipPath>MusicExpanded/RiskOfRain2/Köppen As Fuck</clipPath>
+    <cue>Custom</cue>
+    <cueData>ChimeraAssault</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_ROR2_ANOM_006</defName>
+    <label>Risk of Rain 2 - Lacrimosum</label>
+    <clipPath>MusicExpanded/RiskOfRain2/Lacrimosum</clipPath>
+    <cue>Custom</cue>
+    <cueData>Revenant</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_ROR2_ANOM_007</defName>
+    <label>Risk of Rain 2 - Thermodynamic Equilibrium</label>
+    <clipPath>MusicExpanded/RiskOfRain2/Thermodynamic Equilibrium</clipPath>
+    <cue>Custom</cue>
+    <cueData>FleshmassHeart</cueData>
+  </MusicExpanded.TrackDef>
+
+</Defs>

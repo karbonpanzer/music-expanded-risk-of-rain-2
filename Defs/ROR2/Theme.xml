@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <MusicExpanded.ThemeDef>
+    <defName>MEF_RiskOfRain2</defName>
+    <label>Music Expanded: Risk of Rain 2</label>
+    <description>Music from Risk of Rain 2 for RimWorld.</description>
+    <iconPath>UI/Icons/ROR2</iconPath>
+    <tracks>
+      <li>ME_ROR2_001</li>
+      <li>ME_ROR2_002</li>
+      <li>ME_ROR2_003</li>
+      <li>ME_ROR2_004</li>
+      <li>ME_ROR2_005</li>
+      <li>ME_ROR2_006</li>
+      <li>ME_ROR2_007</li>
+      <li>ME_ROR2_008</li>
+      <li>ME_ROR2_009</li>
+      <li>ME_ROR2_010</li>
+      <li>ME_ROR2_011</li>
+      <li>ME_ROR2_012</li>
+      <li>ME_ROR2_013</li>
+      <li>ME_ROR2_014</li>
+      <li>ME_ROR2_015</li>
+      <li>ME_ROR2_016</li>
+      <li>ME_ROR2_017</li>
+      <li>ME_ROR2_018</li>
+      <li>ME_ROR2_019</li>
+      <li>ME_ROR2_ANOM_001</li>
+      <li>ME_ROR2_ANOM_002</li>
+      <li>ME_ROR2_ANOM_003</li>
+      <li>ME_ROR2_ANOM_004</li>
+      <li>ME_ROR2_ANOM_005</li>
+      <li>ME_ROR2_ANOM_006</li>
+      <li>ME_ROR2_ANOM_007</li>
+    </tracks>
+  </MusicExpanded.ThemeDef>
+</Defs>
